@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JTtime
-- 👀 I’m interested in 
+- 👀 I’m interested in Open Source
 - 🌱 I’m currently learning DevOps, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
