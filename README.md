@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JTtime
 - 👀 I’m interested in Open Source
-- 🌱 I’m currently learning DevOps, Java
+- 🌱 I’m currently learning DevOps, Java, GoLang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
