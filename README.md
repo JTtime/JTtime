@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JTtime
 - 👀 I’m interested in Open Source
-- 🌱 I’m currently learning DevOps, Java, GoLang
+- 🌱 I’m currently learning Web-Dev(MERN Stack), Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
