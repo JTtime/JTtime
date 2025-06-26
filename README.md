@@ -13,7 +13,7 @@
 - 🌱 I’m learning: **MERN Stack**, **Go**, **Python**, and how to stop pushing to `main` like a maniac
 - 👯 I’m looking to collaborate on: Anything with clean UI, slick UX, and just enough chaos to be fun
 - 💬 Ask me about: React, APIs, animations, and whether you should rewrite it all in TypeScript (yes)
-- 📫 How to reach me: [LinkedIn](#) | [Email](#) | [Portfolio](#) *(update these!)*
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeevraj-taralkar-69103829/) | [Email](mailto:jeevraj.vjti@gmail.com) | [Portfolio](https://www.crio.do/learn/portfolio/jeevraj-vjti/) *(update these!)*
 - ⚡ Fun fact: I probably have more projects in `/dev/null` than in production
 
 ---
