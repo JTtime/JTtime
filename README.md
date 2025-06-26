@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on: **Edu-Dashboard**, **3D Product Viewer**, and **XFlix**
-- 🌱 I’m learning: **MERN Stack**, **Java**, **Go**, and how to stop pushing to `main` like a maniac
+- 🌱 I’m learning: **MERN Stack**, **Go**, **Python**, and how to stop pushing to `main` like a maniac
 - 👯 I’m looking to collaborate on: Anything with clean UI, slick UX, and just enough chaos to be fun
 - 💬 Ask me about: React, APIs, animations, and whether you should rewrite it all in TypeScript (yes)
 - 📫 How to reach me: [LinkedIn](#) | [Email](#) | [Portfolio](#) *(update these!)*
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-Express-black?style=flat&logo=express" />
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb" />
   <img src="https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript" />
-  <img src="https://img.shields.io/badge/-Go-black?style=flat&logo=go" />
+  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" />
 </p>
 
 ---
