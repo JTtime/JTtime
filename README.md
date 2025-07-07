@@ -16,7 +16,7 @@
 - 💼 Currently at **Findability Sciences**, building intelligent UIs and agentic AI workflows ([Live Demo](https://www.findability.ai/en/agentic-ai-platform))
 - 🏦 Previously at **EduFund**, where I contributed to [EduFund App](https://play.google.com/store/apps/details?id=com.educationfund.edufund&hl=en_IN) ([App Store](https://apps.apple.com/in/app/edufund-mutual-funds-sip/id1538432722)), built internal tools and web portals
 - 🤖 Built AI agents using **Python** and **Node.js** with **LangChain**, **OpenAI**, and custom tools
-- 🔭 Current side projects: **Edu-Dashboard**, **3D Product Viewer**, **XFlix**
+- 🔭 Current side projects: [**OIOT-APP**](https://oiot.app/), **Edu-Dashboard**, **3D Product Viewer**, **XFlix**
 - 🌱 Learning: **Go**, **advanced LLM tooling**, and how to stop pushing to `main` like a maniac
 - 👯 Open to collaborate on anything with clean UI, smart AI, and a little chaos
 - 💬 Ask me about: React, AI agents, APIs, animations, or when to TypeScript-ify everything
