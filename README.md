@@ -55,7 +55,7 @@
 Built solo frontend for an AI agent orchestration UI in production at Findability Sciences.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c76e78d5-49db-47dc-b8f3-c4a240e5b1ad" width="80%" alt="Agentic AI Platform Preview (placeholder)" />
+  <img src="https://github.com/user-attachments/assets/e3c64d91-0043-43d1-8b59-54e5b3019ada" width="80%" alt="Agentic AI Platform Preview (placeholder)" />
 </p>
 
 **Stack**: React, Material UI
