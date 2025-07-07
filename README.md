@@ -94,6 +94,8 @@ Open-source 3D T-shirt customizer built with React Three.js WEBGL — contribute
 
 <p align="center">
   <img src="https://imgur.com/DvEZnW7.png" width="80%" alt="Product 3D Customizer Preview" />
+  <img src="https://imgur.com/B1yHPt2.png" width="80%" alt="Product 3D Customizer Preview" />
+  
 </p>
 
 **Stack**: React, Three.js, Firebase Auth, Google Sign-in
