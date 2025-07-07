@@ -17,6 +17,7 @@
 - 🏦 Previously at **EduFund**, where I contributed to [EduFund App](https://play.google.com/store/apps/details?id=com.educationfund.edufund&hl=en_IN) ([App Store](https://apps.apple.com/in/app/edufund-mutual-funds-sip/id1538432722)), built internal tools and web portals
 - 🤖 Built AI agents using **Python** and **Node.js** with **LangChain**, **OpenAI**, and custom tools
 - 🔭 Current side projects: [**OIOT-APP**](https://oiot.app/), **Edu-Dashboard**, **3D Product Viewer**, **XFlix**
+- 🌐 Contributor at **GSSoC '23**, worked on [Product_3D](https://github.com/JTtime/Product_3D) adding auth features and Firebase integration
 - 🌱 Learning: **Go**, **advanced LLM tooling**, and how to stop pushing to `main` like a maniac
 - 👯 Open to collaborate on anything with clean UI, smart AI, and a little chaos
 - 💬 Ask me about: React, AI agents, APIs, animations, or when to TypeScript-ify everything
@@ -102,10 +103,15 @@ YouTube-style video player with REST API integration and search.
 
 ---
 
-#### 👕 Product_3D
-Interactive 3D T-shirt designer using Three.js and WebGL.
+#### 👕 Product_3D ([Repo](https://github.com/JTtime/Product_3D)
+Open-source 3D T-shirt customizer built with React Three.js — contributed during **GSSoC'23**. Worked on Firebase integration, Google sign-in/sign-up, and modular component refactors.
 
-**Stack**: React Three Fiber
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/00000000/product-3d-preview.png" width="80%" alt="Product 3D Customizer Preview (placeholder)" />
+</p>
+
+**Stack**: React, Three.js, Firebase Auth, Google Sign-in
+
 
 ---
 
