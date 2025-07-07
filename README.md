@@ -1,21 +1,34 @@
 <h1 align="center">Hey there, I'm JTtime 👋</h1>
 
 <p align="center">
-  <b>Frontend Tinkerer ⚙️ | MERN Explorer 🌍 | Building cool stuff one commit at a time</b><br/>
+  <b>Frontend Tinkerer ⚙️ | MERN Explorer 🌍 | Agentic AI Builder 🤖</b><br/>
   <i>I break things until they work. And sometimes… they actually do.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic%20AI%20Builder-%F0%9F%A4%96-blueviolet?style=for-the-badge" alt="Agentic AI Builder Badge"/>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 💼 Currently at **Findability Sciences**, building intelligent UIs for agentic AI workflows ([Demo](https://www.findability.ai/en/agentic-ai-platform))
-- 🔭 Working on: **Edu-Dashboard**, **3D Product Viewer**, **XFlix**
-- 🌱 Learning: **MERN Stack**, **Go**, **Python**, and how to stop pushing to `main` like a maniac
-- 👯 Looking to collaborate on: Anything with clean UI, slick UX, and just enough chaos to be fun
-- 💬 Ask me about: React, APIs, animations, and whether you should rewrite it all in TypeScript (yes)
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/jeevraj-taralkar-69103829/) | [Email](mailto:jeevraj.vjti@gmail.com) | [Portfolio](https://www.crio.do/learn/portfolio/jeevraj-vjti/)
-- ⚡ Fun fact: I probably have more projects in `/dev/null` than in production
+- 💼 Currently at **Findability Sciences**, building intelligent UIs and agentic AI workflows ([Live Demo](https://www.findability.ai/en/agentic-ai-platform))
+- 🏦 Previously at **EduFund**, where I contributed to [EduFund App](https://play.google.com/store/apps/details?id=com.educationfund.edufund&hl=en_IN) ([App Store](https://apps.apple.com/in/app/edufund-mutual-funds-sip/id1538432722)), built internal tools and web portals
+- 🤖 Built AI agents using **Python** and **Node.js** with **LangChain**, **OpenAI**, and custom tools
+- 🔭 Current side projects: **Edu-Dashboard**, **3D Product Viewer**, **XFlix**
+- 🌱 Learning: **Go**, **advanced LLM tooling**, and how to stop pushing to `main` like a maniac
+- 👯 Open to collaborate on anything with clean UI, smart AI, and a little chaos
+- 💬 Ask me about: React, AI agents, APIs, animations, or when to TypeScript-ify everything
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jeevraj-taralkar-69103829/) • [Email](mailto:jeevraj.vjti@gmail.com) • [Portfolio](https://www.crio.do/learn/portfolio/jeevraj-vjti/) *(update this!)*
+
+---
+
+### 🧠 AI & Agentic Workflows
+
+- 🧩 Built agentic workflows that let AI agents use tools, APIs, and memory effectively
+- 🔁 Experience with **LangChain**, **OpenAI Functions**, **Pinecone**, vector stores & tool orchestration
+- 🧪 Python and Node.js based systems — prompt design, reasoning loops, tool invocations, memory management
 
 ---
 
@@ -23,34 +36,102 @@
 
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-React-black?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Express-black?style=flat&logo=express" />
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb" />
   <img src="https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript" />
+  <img src="https://img.shields.io/badge/-React-black?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js" />
   <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-LangChain-black?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-OpenAI-black?style=flat&logo=openai" />
+  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **Agentic AI Platform** | Built intelligent agent workflow UI as a solo frontend dev ([Live Demo](https://www.findability.ai/en/agentic-ai-platform)) | React, Material UI |
-| **Edu-Dashboard** | Data viz dashboard with dynamic charts & analytics | React, Chart.js, TypeScript |
-| **XFlix** | YouTube clone with video streaming & search | React, REST APIs |
-| **Product_3D** | Interactive 3D T-shirt customization | React Three Fiber |
-| **QKart Frontend** | Scalable e-commerce UI project | React, Material UI |
-| **Admin UI Challenge** | Admin panel challenge from a frontend hackathon | JavaScript |
+#### 🎯 Agentic AI Platform ([Live Demo](https://www.findability.ai/en/agentic-ai-platform))
+Built solo frontend for an AI agent orchestration UI in production at Findability Sciences.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/00000000/agentic-platform-preview.png" width="80%" alt="Agentic AI Platform Preview (placeholder)" />
+</p>
+
+**Stack**: React, Material UI
 
 ---
 
-### 🔢 GitHub Stats
+#### 📱 EduFund Mobile App ([Play Store](https://play.google.com/store/apps/details?id=com.educationfund.edufund&hl=en_IN) • [App Store](https://apps.apple.com/in/app/edufund-mutual-funds-sip/id1538432722))
+Contributed to core flows in a production-grade savings & investment app with 4L+ users.
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JTtime&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JTtime&theme=tokyonight" />
+  <img src="https://user-images.githubusercontent.com/00000000/edufund-app-preview.png" width="40%" alt="EduFund App Preview (placeholder)" />
+</p>
+
+**Stack**: React Native, Redux, REST APIs
+
+---
+
+#### 🛠️ EduFund Admin Panel (Internal)
+Created internal dashboards in Next.js to manage user analytics and workflows.
+
+**Stack**: Next.js, Material UI
+
+---
+
+#### 🌐 EduFund Web Portal ([Visit](https://app.edufund.in/))
+Built parts of the public-facing portal to onboard users and display financial content.
+
+**Stack**: Next.js
+
+---
+
+#### 📊 Edu-Dashboard
+Dynamic charts & analytics built with reusable components.
+
+**Stack**: React, Chart.js, TypeScript
+
+---
+
+#### 🎥 XFlix
+YouTube-style video player with REST API integration and search.
+
+**Stack**: React, REST APIs
+
+---
+
+#### 👕 Product_3D
+Interactive 3D T-shirt designer using Three.js and WebGL.
+
+**Stack**: React Three Fiber
+
+---
+
+#### 🛍️ QKart Frontend
+Scalable e-commerce UI with cart, filters, and responsive layout.
+
+**Stack**: React, Material UI
+
+---
+
+#### ⚙️ Admin UI Challenge
+Hackathon admin panel challenge with editable tables and batch actions.
+
+**Stack**: JavaScript
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JTtime&show_icons=true&theme=default#gh-light-mode-only" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JTtime&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JTtime&theme=default#gh-light-mode-only" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JTtime&theme=tokyonight#gh-dark-mode-only" />
 </p>
 
 ---
