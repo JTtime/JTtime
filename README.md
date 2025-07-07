@@ -93,7 +93,7 @@ Built parts of the public-facing portal to onboard users and display financial c
 Open-source 3D T-shirt customizer built with React Three.js WEBGL — contributed during **GSSoC'23**. Worked on Firebase integration, Google sign-in/sign-up, and modular component refactors.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/00000000/product-3d-preview.png" width="80%" alt="Product 3D Customizer Preview" />
+  <img src="https://imgur.com/DvEZnW7.png" width="80%" alt="Product 3D Customizer Preview" />
 </p>
 
 **Stack**: React, Three.js, Firebase Auth, Google Sign-in
