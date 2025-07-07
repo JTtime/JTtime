@@ -66,7 +66,7 @@ Built solo frontend for an AI agent orchestration UI in production at Findabilit
 Contributed to core flows in a production-grade savings & investment app with 4L+ users.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/00000000/edufund-app-preview.png" width="40%" alt="EduFund App Preview (placeholder)" />
+  <img src="https://play-lh.googleusercontent.com/YVjLTP3FR61d947oI7t5VtAj--ekjJyTyKI-K7POHF3T4A3Uu0H_NPP-ZllKwD3UH0la=w2560-h1440-rw" width="40%" alt="EduFund App Preview (placeholder)" />
 </p>
 
 **Stack**: React Native, Redux, REST APIs
