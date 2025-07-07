@@ -9,11 +9,12 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: **Edu-Dashboard**, **3D Product Viewer**, and **XFlix**
-- 🌱 I’m learning: **MERN Stack**, **Go**, **Python**, and how to stop pushing to `main` like a maniac
-- 👯 I’m looking to collaborate on: Anything with clean UI, slick UX, and just enough chaos to be fun
+- 💼 Currently at **Findability Sciences**, building intelligent UIs for agentic AI workflows ([Demo](https://www.findability.ai/en/agentic-ai-platform))
+- 🔭 Working on: **Edu-Dashboard**, **3D Product Viewer**, **XFlix**
+- 🌱 Learning: **MERN Stack**, **Go**, **Python**, and how to stop pushing to `main` like a maniac
+- 👯 Looking to collaborate on: Anything with clean UI, slick UX, and just enough chaos to be fun
 - 💬 Ask me about: React, APIs, animations, and whether you should rewrite it all in TypeScript (yes)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeevraj-taralkar-69103829/) | [Email](mailto:jeevraj.vjti@gmail.com) | [Portfolio](https://www.crio.do/learn/portfolio/jeevraj-vjti/) *(update these!)*
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/jeevraj-taralkar-69103829/) | [Email](mailto:jeevraj.vjti@gmail.com) | [Portfolio](https://www.crio.do/learn/portfolio/jeevraj-vjti/)
 - ⚡ Fun fact: I probably have more projects in `/dev/null` than in production
 
 ---
@@ -36,6 +37,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| **Agentic AI Platform** | Built intelligent agent workflow UI as a solo frontend dev ([Live Demo](https://www.findability.ai/en/agentic-ai-platform)) | React, Material UI |
 | **Edu-Dashboard** | Data viz dashboard with dynamic charts & analytics | React, Chart.js, TypeScript |
 | **XFlix** | YouTube clone with video streaming & search | React, REST APIs |
 | **Product_3D** | Interactive 3D T-shirt customization | React Three Fiber |
@@ -56,6 +58,3 @@
 ### ✨ Quote to Code By
 
 > *“First, solve the problem. Then, write the README.” – Not me, but I should’ve said it.*
-
----
-
