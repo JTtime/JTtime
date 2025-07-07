@@ -20,7 +20,7 @@
 - 🌱 Learning: **Go**, **advanced LLM tooling**, and how to stop pushing to `main` like a maniac
 - 👯 Open to collaborate on anything with clean UI, smart AI, and a little chaos
 - 💬 Ask me about: React, AI agents, APIs, animations, or when to TypeScript-ify everything
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jeevraj-taralkar-69103829/) • [Email](mailto:jeevraj.vjti@gmail.com) • [Portfolio](https://www.crio.do/learn/portfolio/jeevraj-vjti/) *(update this!)*
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jeevraj-taralkar-69103829/) • [Email](mailto:jeevraj.vjti@gmail.com) • [Crio Portfolio](https://www.crio.do/learn/portfolio/jeevraj-vjti/)
 
 ---
 
@@ -55,7 +55,7 @@
 Built solo frontend for an AI agent orchestration UI in production at Findability Sciences.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/00000000/agentic-platform-preview.png" width="80%" alt="Agentic AI Platform Preview (placeholder)" />
+  <img src="https://github.com/user-attachments/assets/c76e78d5-49db-47dc-b8f3-c4a240e5b1ad" width="80%" alt="Agentic AI Platform Preview (placeholder)" />
 </p>
 
 **Stack**: React, Material UI
