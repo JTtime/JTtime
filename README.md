@@ -71,7 +71,7 @@ Contributed to core flows in a production-grade savings & investment app with mo
        height="auto" alt="EduFund App Preview (placeholder)" />
 </p>
 
-**Stack**: React Native, Redux, REST APIs
+**Stack**: React Native, Redux, REST APIs, Android, iOS
 
 ---
 
