@@ -98,7 +98,7 @@ Open-source 3D T-shirt customizer built with React Three.js WEBGL — contribute
   
 </p>
 
-**Stack**: React, Three.js, Firebase Auth, Google Sign-in
+**Stack**: React, Three.js, Firebase Auth, Google Sign-in, Tailwind
 
 ---
 #### 📊 Edu-Dashboard
