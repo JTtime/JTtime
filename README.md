@@ -85,7 +85,7 @@ Created internal dashboards in Next.js to manage user analytics and workflows.
 #### 🌐 EduFund Web Portal ([Visit](https://app.edufund.in/))
 Built parts of the public-facing portal to onboard users and display financial content.
 
-**Stack**: Next.js
+**Stack**: Next.js, Material UI, React-table
 
 ---
 
