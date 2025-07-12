@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Jeevraj Taralkar 👋</h1>
+<h1 align="center">Hey there, I'm Jeevraj Taralkar (JT)time 👋</h1>
 
 <p align="center">
   <b>Frontend Tinkerer ⚙️ | MERN Explorer 🌍 | Agentic AI Builder 🤖</b><br/>
