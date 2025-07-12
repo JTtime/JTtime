@@ -145,5 +145,4 @@ Hackathon admin panel challenge with editable tables and batch actions.
 
 ### ✨ Quote to Code By
 
-> *😄 Light and Playful:
-“README: Because even your future self won’t remember what you were doing.” – Not me, but I should’ve said it.*
+> *“README: Because even your future self won’t remember what you were doing.” – Not me, but I should’ve said it.*
