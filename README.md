@@ -145,4 +145,5 @@ Hackathon admin panel challenge with editable tables and batch actions.
 
 ### ✨ Quote to Code By
 
-> *“First, solve the problem. Then, write the README.” – Not me, but I should’ve said it.*
+> *😄 Light and Playful:
+“README: Because even your future self won’t remember what you were doing.” – Not me, but I should’ve said it.*
