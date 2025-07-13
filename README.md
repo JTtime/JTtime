@@ -7,14 +7,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Agentic%20AI%20Builder-%F0%9F%A4%96-blueviolet?style=for-the-badge" alt="Agentic AI Builder Badge"/>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/MERN%20Stack%20Pro-%F0%9F%94%A5-1f8b4c?style=for-the-badge" alt="MERN Stack Pro Badge"/>
+  <img src="https://img.shields.io/badge/LLM%20Orchestrator-%F0%9F%A4%96-4b8bbe?style=for-the-badge" alt="LLM Orchestrator Badge"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%F0%9F%9B%A0%EF%B8%8F-28a745?style=for-the-badge" alt="Full Stack Developer Badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering%20Pro-%F0%9F%A7%A0-ff69b4?style=for-the-badge" alt="Prompt Engineering Pro Badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%E2%9C%A8-brightgreen?style=for-the-badge" alt="Open Source Contributor Badge"/>
+  <img src="https://img.shields.io/badge/Dockerized%20DevOps-%F0%9F%90%B3-0db7ed?style=for-the-badge" alt="Dockerized DevOps Badge"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%E2%9C%A8-brightgreen?style=for-the-badge" alt="Open Source Contributor Badge"/>
-</p>
 
 
 
