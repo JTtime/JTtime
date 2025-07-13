@@ -8,6 +8,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Agentic%20AI%20Builder-%F0%9F%A4%96-blueviolet?style=for-the-badge" alt="Agentic AI Builder Badge"/>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack%20Pro-%F0%9F%94%A5-1f8b4c?style=for-the-badge" alt="MERN Stack Pro Badge"/>
+</p>
+
 
 ---
 
