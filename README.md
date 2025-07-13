@@ -12,6 +12,11 @@
   <img src="https://img.shields.io/badge/MERN%20Stack%20Pro-%F0%9F%94%A5-1f8b4c?style=for-the-badge" alt="MERN Stack Pro Badge"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%E2%9C%A8-brightgreen?style=for-the-badge" alt="Open Source Contributor Badge"/>
+</p>
+
+
 
 ---
 
