@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, Welcome to JTtime code repo 👋</h1>
+<h1 align="center">Hey there, Welcome to Jeevraj Taralkar 👋</h1>
 
 <p align="center">
   <b>Frontend Tinkerer ⚙️ | MERN Explorer 🌍 | Agentic AI Builder 🤖</b><br/>
