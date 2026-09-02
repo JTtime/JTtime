@@ -1,40 +1,43 @@
-<h1 align="center">Hey, I'm Jeevraj Taralkar 👋</h1>
+<h1 align="center">Hey there, I'm Jeevraj Taralkar 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Engineer 🛠️ | Agentic AI & Solution Architecture 🤖 | Python/FastAPI + React/TypeScript ⚡ | DevOps on AWS 🐳</b><br/>
-  <i>I own things end-to-end — frontend, backend, infra — and ship them to production.</i>
+  <b>Frontend Tinkerer ⚙️ | MERN Explorer 🌍 | Agentic AI Builder 🤖</b><br/>
+  <i>I break things until they work. And sometimes… they actually do.</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Solution%20Architecture-%F0%9F%A7%A9-blueviolet?style=for-the-badge" alt="Solution Architecture Badge"/>
-  <img src="https://img.shields.io/badge/Agentic%20AI%20Builder-%F0%9F%A4%96-4b8bbe?style=for-the-badge" alt="Agentic AI Builder Badge"/>
-  <img src="https://img.shields.io/badge/Python%2FFastAPI-%F0%9F%90%8D-1f8b4c?style=for-the-badge" alt="Python FastAPI Badge"/>
-  <img src="https://img.shields.io/badge/React%2FTypeScript-%E2%9A%9B%EF%B8%8F-black?style=for-the-badge" alt="React TypeScript Badge"/>
-  <img src="https://img.shields.io/badge/AWS%20%7C%20Docker%20%7C%20K8s-%F0%9F%90%B3-0db7ed?style=for-the-badge" alt="DevOps Badge"/>
-  <img src="https://img.shields.io/badge/CI%2FCD%20Automation-%E2%9C%A8-28a745?style=for-the-badge" alt="CI/CD Badge"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI%20Builder-%F0%9F%A4%96-blueviolet?style=for-the-badge" alt="Agentic AI Builder Badge"/>
+  <img src="https://img.shields.io/badge/MERN%20Stack%20Pro-%F0%9F%94%A5-1f8b4c?style=for-the-badge" alt="MERN Stack Pro Badge"/>
+  <img src="https://img.shields.io/badge/LLM%20Orchestrator-%F0%9F%A4%96-4b8bbe?style=for-the-badge" alt="LLM Orchestrator Badge"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%F0%9F%9B%A0%EF%B8%8F-28a745?style=for-the-badge" alt="Full Stack Developer Badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering%20Pro-%F0%9F%A7%A0-ff69b4?style=for-the-badge" alt="Prompt Engineering Pro Badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%E2%9C%A8-brightgreen?style=for-the-badge" alt="Open Source Contributor Badge"/>
+  <img src="https://img.shields.io/badge/Dockerized%20DevOps-%F0%9F%90%B3-0db7ed?style=for-the-badge" alt="Dockerized DevOps Badge"/>
 </p>
+
+
+
 
 ---
 
 ### 🚀 About Me
 
-- 💼 **7 years** shipping production SaaS end-to-end — frontend, backend, and DevOps — for platforms used by **500K+ end users**, Fortune 500 teams, and government clients
-- 🧩 Currently at **Findability Sciences**, owning solution architecture and full-stack delivery for the company's flagship **Agentic AI SaaS platform** — a patent-drafting copilot in Python/FastAPI + React/TypeScript, driving **60%+ time savings** for IP law firms
-- 🤖 Built and scaled **LLM-powered analytics pipelines** used by 800+ global managers, and an enterprise RAG chatbot handling **3,000+ daily interactions**
-- 🐳 Comfortable owning the whole stack top to bottom: **Docker/Kubernetes on AWS**, CI/CD pipelines, microservices/microfrontends, and enterprise API integration — not just the UI layer
-- 🏗️ Also designed and shipped a **GenAI-powered LMS SaaS** (Vridhee Innovations) live across 3 Indian states, and led the onboarding flow for a React Native app with **500K+ users** (EduFund)
-- 🔭 Side projects: agentic tool-calling libraries, RAG/pgvector pipelines, and voice-driven AI copilots for React apps — see below
-- 🌱 Learning: Go, advanced LLM tooling, and how to stop pushing to `main` like a maniac
-- 👯 Open to founding-engineer / early-stage roles where I can own architecture *and* ship fast
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jeevraj-taralkar-69103829/) • [Email](mailto:jeevraj.vjti@gmail.com) • [Portfolio](https://portfolio-nextjs-two-chi.vercel.app/) • [GitHub](https://github.com/JTtime)
+- 💼 Currently at **Findability Sciences**, building intelligent UIs and agentic AI workflows ([Video Demo Listed on company website](https://www.findability.ai/en/agentic-ai-platform))
+- 🏦 Previously at **EduFund**, where I contributed to [EduFund App](https://play.google.com/store/apps/details?id=com.educationfund.edufund&hl=en_IN) ([App Store](https://apps.apple.com/in/app/edufund-mutual-funds-sip/id1538432722)), built internal tools and web portals
+- 🤖 Built AI agents using **Python** and **Node.js** with **LangChain**, **OpenAI**, and custom tools
+- 🔭 Current side projects: [**OIOT-APP**](https://oiot.app/), **Edu-Dashboard**, **3D Product Viewer**, **XFlix**
+- 🌐 Contributor at **GSSoC '23**, worked on [Product_3D](https://github.com/JTtime/Product_3D) adding auth features and Firebase integration
+- 🌱 Learning: **Go**, **advanced LLM tooling**, and how to stop pushing to `main` like a maniac
+- 👯 Open to collaborate on anything with clean UI, smart AI, and a little chaos
+- 💬 Ask me about: React, AI agents, APIs, animations, or when to TypeScript-ify everything
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jeevraj-taralkar-69103829/) • [Email](mailto:jeevraj.vjti@gmail.com) • [Portfolio](https://portfolio-nextjs-two-chi.vercel.app/) • [Crio Portfolio](https://www.crio.do/learn/portfolio/jeevraj-vjti/) • [Twitter](https://x.com/JTtime_C) • [Youtube](https://www.youtube.com/@JTtimeCoding)
 
 ---
 
 ### 🧠 AI & Agentic Workflows
 
-- 🧩 Production experience with agentic tool-calling, RAG pipelines, and LLM infrastructure — not just prototypes
-- 🔁 OpenAI, Azure OpenAI, Groq, LangChain, pgvector, vector stores & tool orchestration
-- 🛡️ Enforced guardrails on LLM-generated SQL (RBAC filters, partition pruning, cost checks) — cut query load ~70% and latency from ~60s to <3s on billion-row datasets
+- 🧩 Built agentic workflows that let AI agents use tools, APIs, and memory effectively
+- 🔁 Experience with **LangChain**, **OpenAI Functions**, **Pinecone**, vector stores & tool orchestration
 - 🧪 Python and Node.js based systems — prompt design, reasoning loops, tool invocations, memory management
 
 ---
@@ -42,17 +45,13 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-FastAPI-black?style=flat&logo=fastapi" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript" />
   <img src="https://img.shields.io/badge/-React-black?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/-AWS-black?style=flat&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/-Docker-black?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/-SQL-black?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js" />
+  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-LangChain-black?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-OpenAI-black?style=flat&logo=openai" />
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb" />
@@ -60,75 +59,82 @@
 
 ---
 
-### 💼 Professional Work
+### 📌 Featured Projects
 
-#### 🎯 Agentic AI Platform / Patent Drafting Copilot — [Findability Sciences](https://www.findability.ai/en/agentic-ai-platform) · *Jan 2025 – Present*
-Own solution architecture and end-to-end delivery for a full AI-assisted patent-drafting SaaS product — agentic flows, tool calling, OAuth-based multi-tenant access, and a GPU-isolated multimodal (OCR) pipeline. Set up CI/CD and Docker/Kubernetes deployments on AWS for zero-downtime delivery.
+#### 🎯 Agentic AI Platform ([Live Demo](https://www.findability.ai/en/agentic-ai-platform))
+Built solo frontend for an AI agent orchestration UI in production at Findability Sciences.
 
-**Stack**: React, TypeScript, Python, FastAPI, Docker, Kubernetes, AWS (S3, EKS)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e3c64d91-0043-43d1-8b59-54e5b3019ada" width="80%" alt="Agentic AI Platform Preview (placeholder)" />
+</p>
 
----
-
-#### 📚 GenAI-Powered LMS SaaS — Vridhee Innovations · *May 2024 – Jan 2025*
-Built and deployed a GenAI-powered learning-management SaaS live across 3 Indian states with 10K+ monthly sessions — AI doubt-solving and MCQ generation that cut teacher effort by 40%. Designed a microfrontend + microservices architecture with CI/CD, cutting deployment time by 60%.
-
-**Stack**: React, Next.js, Python, FastAPI, SQL, Docker, CI/CD
+**Stack**: React, Material UI
 
 ---
 
-#### 📱 EduFund Mobile App — [Play Store](https://play.google.com/store/apps/details?id=com.educationfund.edufund&hl=en_IN) · [App Store](https://apps.apple.com/in/app/edufund-mutual-funds-sip/id1538432722) · *May 2023 – Mar 2024*
-Sole frontend engineer for the end-to-end onboarding flow on a savings & investment app with 500K+ users. Built a GenAI chatbot for college-fee prediction via OpenAI APIs.
+#### 📱 EduFund Mobile App ([Play Store](https://play.google.com/store/apps/details?id=com.educationfund.edufund&hl=en_IN) • [App Store](https://apps.apple.com/in/app/edufund-mutual-funds-sip/id1538432722))
+Contributed to core flows in a production-grade savings & investment app with more than half a million users.
 
-**Stack**: React Native, Redux, Next.js, Node.js/Express.js, OpenAI API
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/YVjLTP3FR61d947oI7t5VtAj--ekjJyTyKI-K7POHF3T4A3Uu0H_NPP-ZllKwD3UH0la=w2560-h1440-rw" width="300px"
+       height="auto" alt="EduFund App Preview (placeholder)" />
+</p>
 
----
-
-#### 🛒 E-Commerce Platform — HeadGear Audio · *Aug 2019 – Apr 2023*
-Built an end-to-end e-commerce platform with analytics dashboards, third-party integrations, and SEO optimizations.
-
-**Stack**: Next.js, Python, FastAPI, SQL
+**Stack**: React Native, Redux, REST APIs, Android, iOS
 
 ---
 
-### 🔭 Side Projects & Explorations
+#### 🛠️ EduFund Admin Panel (Internal)
+Created internal dashboards in Next.js to manage user analytics and workflows.
 
-#### 🎙️ cover-pilot
-Voice-driven AI copilot for React apps, built as a multi-package npm library (`@cover-pilot/core`, `@cover-pilot/react`, router adapters) using DOM stamping, a command registry, and an LLM step-runner.
-
-**Stack**: TypeScript, React, LLM tool orchestration
+**Stack**: Next.js, Material UI
 
 ---
 
-#### 🔄 trishasync
-npm library for promise-state transition UI components — zero runtime dependencies, pure CSS/SVG animations, GitHub Actions CI/CD for automated npm publishing.
+#### 🌐 EduFund Web Portal ([Visit](https://app.edufund.in/))
+Built parts of the public-facing portal to onboard users and display financial content.
 
-**Stack**: TypeScript, CSS/SVG, GitHub Actions
-
----
-
-#### 🎓 Student Teaching Copilot
-RAG-based teaching assistant with layout-aware document extraction, tool calling, pgvector, Celery task pipelines, and a custom evaluation framework.
-
-**Stack**: Python, FastAPI, pgvector, Celery, Next.js
+**Stack**: Next.js, Material UI, React-table
 
 ---
 
 #### 👕 Product_3D ([Repo](https://github.com/JTtime/Product_3D))
-Open-source 3D T-shirt customizer built with React Three.js WebGL — contributed during GSSoC'23, adding Firebase Auth, Google Sign-in, and modular component refactors.
+Open-source 3D T-shirt customizer built with React Three.js WEBGL — contributed during **GSSoC'23**. Worked on Firebase integration, Google sign-in/sign-up, and modular component refactors.
 
-**Stack**: React, Three.js, Firebase Auth, Tailwind
+<p align="center">
+  <img src="https://imgur.com/DvEZnW7.png" width="80%" alt="Product 3D Customizer Preview" />
+  <img src="https://imgur.com/B1yHPt2.png" width="80%" alt="Product 3D Customizer Preview" />
+  
+</p>
+
+**Stack**: React, Three.js, Firebase Auth, Google Sign-in, Tailwind
+
+---
+#### 📊 Edu-Dashboard
+Dynamic charts & analytics built with reusable components.
+
+**Stack**: React, Chart.js, TypeScript
 
 ---
 
-#### 🛍️ Virtual Showroom
-React/FastAPI toy project using fal.ai's hosted VITON API for virtual clothing try-on.
+#### 🎥 XFlix
+YouTube-style video player with REST API integration and search.
 
-**Stack**: React, Python, FastAPI, fal.ai
+**Stack**: React, REST APIs
 
 ---
 
-#### 📊 Edu-Dashboard & 🎥 XFlix
-Reusable analytics dashboards (React, Chart.js, TypeScript) and a YouTube-style video player with REST API integration and search.
+#### 🛍️ QKart Frontend
+Scalable e-commerce UI with cart, filters, and responsive layout.
+
+**Stack**: React, Material UI
+
+---
+
+#### ⚙️ Admin UI Challenge
+Hackathon admin panel challenge with editable tables and batch actions.
+
+**Stack**: JavaScript
 
 ---
 
@@ -148,4 +154,4 @@ Reusable analytics dashboards (React, Chart.js, TypeScript) and a YouTube-style 
 
 ### ✨ Quote to Code By
 
-> *"README: Because even your future self won't remember what you were doing." – Not me, but I should've said it.*
+> *“README: Because even your future self won’t remember what you were doing.” – Not me, but I should’ve said it.*
