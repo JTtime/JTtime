@@ -144,7 +144,7 @@ Voice-driven AI copilot for React apps, built as a multi-package npm library (`@
 
 ---
 
-#### 🔄 trishasync ([npm link](https://www.npmjs.com/package/trishasync))
+#### 🔄 trishasync ([repo link](https://github.com/JTtime/promiseTriState))([npm link](https://www.npmjs.com/package/trishasync))
 npm library for promise-state transition UI components — zero runtime dependencies, pure CSS/SVG animations, and GitHub Actions CI/CD for automated npm publishing.
 
 **Stack**: TypeScript, CSS/SVG, GitHub Actions
